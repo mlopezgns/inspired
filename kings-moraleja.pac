@@ -318,8 +318,6 @@ var blockedDomains = [
 "conservationcubclub.com",
 "contentatscale.ai",
 "cookup.ai",
-"copilot.github.com",
-"copilot.microsoft.com",
 "corporateheadshots.ai",
 "cotax.art",
 "coursebox.ai",
