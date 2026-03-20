@@ -21,7 +21,11 @@ var blockedURLs = [
 "www.classroom-7x.com/",
 "linktr.ee/classroom.x7.games/",
 "www.classroom-7x.com/category/arcade/",
-"policies.google.com"
+"policies.google.com",
+"gnmath.net",
+"gn-math.dev",
+"jmail.world",
+
 
   ];
 
@@ -52,6 +56,8 @@ var blockedDomains = [
 "www.microsoft.com",
 "support.microsoft.com",
 "www.boyamic.com",
+"jmail.world",
+"play.google.com",
 
 
 // --------------------------------------
@@ -60,6 +66,7 @@ var blockedDomains = [
 "www.lne.es",
 "www.marca.com",
 "www.crazygames.com",
+"jmail.world",
 
 // --------------------------------------
 // Bloquea webs de IAs    --v-v-v-v-v-v--
@@ -2276,7 +2283,8 @@ var blockedDomains = [
 "zetu.art",
 "zleague.gg",
 "zmo.ai",
-"zust.ai"
+"zust.ai",
+"astra.ai",
 
   ];
 
